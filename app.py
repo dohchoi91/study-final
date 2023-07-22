@@ -24,8 +24,7 @@ from streamlit_chat import message
 
 # 요리
 from answer.chain_cook import answer_on_cook
-from embedding_process.chroma_cook import embedding_cook_chroma
-from search.youtube_cook import youtube_cook_video
+
 
 
 
